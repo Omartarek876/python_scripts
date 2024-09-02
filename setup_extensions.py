@@ -41,4 +41,5 @@ def install_extention(ext_name) :
 open_vscode()
 
 for ext in extentions_list : 
+    
     install_extention(ext)
