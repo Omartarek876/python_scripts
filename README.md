@@ -18,7 +18,6 @@
 
  >>>> Now, you can double-click the shortcut to run the Python script. The command prompt will open, run the script, and stay open until you press any key (because of the pause command) <<<<
 
-#################################################################################################################################################
 
 
  # how to create a file.exe 
