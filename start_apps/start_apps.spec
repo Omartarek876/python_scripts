@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['D:\\courses\\Embedded_Linux\\01-Python\\python_scripts\\start_apps.py'],
+    ['start_apps.py'],
     pathex=[],
     binaries=[],
     datas=[],

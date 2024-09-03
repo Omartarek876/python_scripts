@@ -1,4 +1,4 @@
-('D:\\courses\\Embedded_Linux\\01-Python\\python_scripts\\build\\start_apps\\PYZ-00.pyz',
+('D:\\courses\\Embedded_Linux\\01-Python\\python_scripts\\start_apps\\build\\start_apps\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Omar '
    'Tarek\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
